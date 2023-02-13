@@ -1,0 +1,12 @@
+Package: uppercase
+Type: Package
+Title: Change a lowercase string to an uppercase string and vice versa
+Version: 0.1.0
+Authors@R: 
+    person("Anita", "Karaszewska", ,"anita.karaszewska@gmail.com", role = c("aut", "cre"))
+Description: Changing lowercase strings to uppercase strings 
+License: `use_mit_license()`
+Encoding: UTF-8
+LazyData: true
+Suggests: testthat
+RoxygenNote: 7.2.3
